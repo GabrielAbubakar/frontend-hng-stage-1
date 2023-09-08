@@ -9,4 +9,4 @@ The task was to create a simple vanilla frontend project with some hard coded pe
 ## Submision
 
 Here's a link to the live deployed project:
-[Deploy Link](https://github.com/GabrielAbubakar/frontend-hng-stage-1)
+[Deploy Link](https://hngx-stage-one-gabeabu.netlify.app)
